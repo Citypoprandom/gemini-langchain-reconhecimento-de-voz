@@ -1,0 +1,1 @@
+# gemini-langchain-reconhecimento-de-voz
