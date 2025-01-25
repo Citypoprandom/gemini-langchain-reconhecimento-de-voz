@@ -1,0 +1,3 @@
+pyttsx3~=2.98
+speech_recognition
+langchain_google_genai
